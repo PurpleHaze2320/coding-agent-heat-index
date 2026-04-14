@@ -1,0 +1,126 @@
+# Coding Agent Heat Index Configuration
+# Tracks the most active AI coding agents / coding assistants / agentic IDEs
+
+agents:
+  - name: Claude Code
+    repo: anthropics/claude-code
+    npm: "@anthropic-ai/claude-code"
+    vscode_extension: null
+    category: cli-agent
+    pricing: usage-based
+    vendor: Anthropic
+    description: Anthropic's agentic CLI for coding tasks
+
+  - name: Cursor
+    repo: getcursor/cursor
+    npm: null
+    vscode_extension: null
+    category: ai-ide
+    pricing: freemium
+    vendor: Anysphere
+    description: AI-first code editor (fork of VS Code)
+
+  - name: Cline
+    repo: cline/cline
+    npm: null
+    vscode_extension: saoudrizwan.claude-dev
+    category: vscode-extension
+    pricing: byok
+    vendor: Cline
+    description: Autonomous coding agent inside VS Code
+
+  - name: Aider
+    repo: Aider-AI/aider
+    npm: null
+    vscode_extension: null
+    category: cli-agent
+    pricing: byok
+    vendor: Aider
+    description: AI pair programmer in your terminal
+
+  - name: Continue
+    repo: continuedev/continue
+    npm: null
+    vscode_extension: Continue.continue
+    category: vscode-extension
+    pricing: freemium
+    vendor: Continue
+    description: Open-source autopilot for IDEs
+
+  - name: OpenHands
+    repo: All-Hands-AI/OpenHands
+    npm: null
+    vscode_extension: null
+    category: autonomous-agent
+    pricing: byok
+    vendor: All Hands AI
+    description: A platform for software development agents (formerly OpenDevin)
+
+  - name: Codex CLI
+    repo: openai/codex
+    npm: "@openai/codex"
+    vscode_extension: null
+    category: cli-agent
+    pricing: usage-based
+    vendor: OpenAI
+    description: OpenAI's agentic coding CLI
+
+  - name: Gemini CLI
+    repo: google-gemini/gemini-cli
+    npm: "@google/gemini-cli"
+    vscode_extension: null
+    category: cli-agent
+    pricing: freemium
+    vendor: Google
+    description: Google's open-source Gemini-powered coding CLI
+
+  - name: Goose
+    repo: block/goose
+    npm: null
+    vscode_extension: null
+    category: cli-agent
+    pricing: byok
+    vendor: Block
+    description: Block's open-source on-machine AI agent
+
+  - name: Roo Code
+    repo: RooCodeInc/Roo-Code
+    npm: null
+    vscode_extension: RooVeterinaryInc.roo-cline
+    category: vscode-extension
+    pricing: byok
+    vendor: Roo Code
+    description: A whole dev team of AI agents in your editor (Cline fork)
+
+  - name: Plandex
+    repo: plandex-ai/plandex
+    npm: null
+    vscode_extension: null
+    category: cli-agent
+    pricing: byok
+    vendor: Plandex
+    description: Terminal-based AI coding agent for large projects
+
+  - name: Kilo Code
+    repo: Kilo-Org/kilocode
+    npm: null
+    vscode_extension: kilocode.Kilo-Code
+    category: vscode-extension
+    pricing: byok
+    vendor: Kilo Org
+    description: Open source AI coding agent (Cline + Roo superset)
+
+# Heat Score weights (must sum to 1.0)
+weights:
+  star_velocity: 0.25     # 7d + 30d star growth
+  release_freshness: 0.15 # days since last release
+  commit_activity: 0.20   # commits in last 4 weeks
+  issue_health: 0.10      # closed / total issues
+  community: 0.10         # contributors count
+  fork_ratio: 0.05        # forks per star
+  npm_velocity: 0.15      # npm weekly downloads (if applicable)
+
+# API endpoints
+api:
+  github: https://api.github.com
+  npm: https://api.npmjs.org/downloads
