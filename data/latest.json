@@ -1,1 +1,505 @@
-{"_meta": {"generated_at": "2026-04-13T12:00:00+00:00", "agent_count": 2}, "Claude Code": {"name": "Claude Code", "repo": "anthropics/claude-code", "category": "cli-agent", "vendor": "Anthropic", "pricing": "usage-based", "npm": "@anthropic-ai/claude-code", "vscode_extension": null, "heat_score": 82.3, "score_components": {"star_velocity": 100, "release_freshness": 100, "commit_activity": 80, "issue_health": 70, "community": 40, "fork_ratio": 60, "npm_velocity": 85}, "metrics": {"stars": 115000, "forks": 9500, "open_issues": 400, "closed_issues": 2000, "contributors": 120, "stars_7d": 5000, "stars_30d": 18000, "commits_4w": 200, "days_since_release": 1, "npm_weekly": 75000}, "latest_release": {"tag": "v2.2.0", "published_at": "2026-04-12T10:00:00Z", "url": "https://github.com/anthropics/claude-code/releases/tag/v2.2.0"}, "pushed_at": "2026-04-13T06:00:00Z", "language": "TypeScript"}, "Cursor": {"name": "Cursor", "repo": "getcursor/cursor", "category": "ai-ide", "vendor": "Anysphere", "pricing": "freemium", "npm": null, "vscode_extension": null, "heat_score": 61.5, "score_components": {"star_velocity": 70, "release_freshness": 80, "commit_activity": 0, "issue_health": 60, "community": 30, "fork_ratio": 40, "npm_velocity": 0}, "metrics": {"stars": 28000, "forks": 1800, "open_issues": 2000, "closed_issues": 3000, "contributors": 50, "stars_7d": 450, "stars_30d": 1800, "commits_4w": 0, "days_since_release": 5, "npm_weekly": 0}, "latest_release": {"tag": "0.50.0", "published_at": "2026-04-08T10:00:00Z", "url": "https://github.com/getcursor/cursor/releases/tag/0.50.0"}, "pushed_at": "2026-04-09T10:00:00Z", "language": "TypeScript"}}
+{
+  "Claude Code": {
+    "name": "Claude Code",
+    "repo": "anthropics/claude-code",
+    "category": "cli-agent",
+    "vendor": "Anthropic",
+    "pricing": "usage-based",
+    "description": "Anthropic's agentic CLI for coding tasks",
+    "npm": "@anthropic-ai/claude-code",
+    "vscode_extension": null,
+    "metrics": {
+      "stars": 113504,
+      "forks": 18970,
+      "open_issues": 9650,
+      "closed_issues": 36450,
+      "contributors": 49,
+      "stars_7d": 0,
+      "stars_30d": 0,
+      "commits_4w": 26,
+      "days_since_release": 0,
+      "npm_weekly": 12081962
+    },
+    "latest_release": {
+      "tag": "v2.1.105",
+      "name": "v2.1.105",
+      "published_at": "2026-04-13T21:53:13Z",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.105"
+    },
+    "pushed_at": "2026-04-13T23:57:26Z",
+    "language": "Shell",
+    "license": null,
+    "html_url": "https://github.com/anthropics/claude-code",
+    "heat_score": 60.7,
+    "score_components": {
+      "star_velocity": 0,
+      "release_freshness": 100,
+      "commit_activity": 57.7,
+      "issue_health": 79.1,
+      "community": 62.9,
+      "fork_ratio": 100,
+      "npm_velocity": 100
+    }
+  },
+  "Cursor": {
+    "name": "Cursor",
+    "repo": "getcursor/cursor",
+    "category": "ai-ide",
+    "vendor": "Anysphere",
+    "pricing": "freemium",
+    "description": "AI-first code editor (fork of VS Code)",
+    "npm": null,
+    "vscode_extension": null,
+    "metrics": {
+      "stars": 32631,
+      "forks": 2222,
+      "open_issues": 2,
+      "closed_issues": 0,
+      "contributors": 32,
+      "stars_7d": 31,
+      "stars_30d": 31,
+      "commits_4w": 0,
+      "days_since_release": 999,
+      "npm_weekly": 0
+    },
+    "latest_release": {},
+    "pushed_at": "2026-01-31T04:04:26Z",
+    "language": null,
+    "license": null,
+    "html_url": "https://github.com/cursor/cursor",
+    "heat_score": 25.3,
+    "score_components": {
+      "star_velocity": 50.2,
+      "release_freshness": 0,
+      "commit_activity": 0,
+      "issue_health": 0.0,
+      "community": 56.2,
+      "fork_ratio": 68.1,
+      "npm_velocity": 0
+    }
+  },
+  "Cline": {
+    "name": "Cline",
+    "repo": "cline/cline",
+    "category": "vscode-extension",
+    "vendor": "Cline",
+    "pricing": "byok",
+    "description": "Autonomous coding agent inside VS Code",
+    "npm": null,
+    "vscode_extension": "saoudrizwan.claude-dev",
+    "metrics": {
+      "stars": 60233,
+      "forks": 6153,
+      "open_issues": 678,
+      "closed_issues": 3250,
+      "contributors": 288,
+      "stars_7d": 0,
+      "stars_30d": 0,
+      "commits_4w": 69,
+      "days_since_release": 3,
+      "npm_weekly": 0
+    },
+    "latest_release": {
+      "tag": "v3.78.0",
+      "name": "v3.78.0",
+      "published_at": "2026-04-10T20:40:51Z",
+      "url": "https://github.com/cline/cline/releases/tag/v3.78.0"
+    },
+    "pushed_at": "2026-04-13T22:51:22Z",
+    "language": "TypeScript",
+    "license": "Apache-2.0",
+    "html_url": "https://github.com/cline/cline",
+    "heat_score": 57.9,
+    "score_components": {
+      "star_velocity": 0,
+      "release_freshness": 100,
+      "commit_activity": 74.4,
+      "issue_health": 82.7,
+      "community": 91.1,
+      "fork_ratio": 100,
+      "npm_velocity": 0
+    }
+  },
+  "Aider": {
+    "name": "Aider",
+    "repo": "Aider-AI/aider",
+    "category": "cli-agent",
+    "vendor": "Aider",
+    "pricing": "byok",
+    "description": "AI pair programmer in your terminal",
+    "npm": null,
+    "vscode_extension": null,
+    "metrics": {
+      "stars": 43282,
+      "forks": 4198,
+      "open_issues": 1481,
+      "closed_issues": 2852,
+      "contributors": 180,
+      "stars_7d": 0,
+      "stars_30d": 0,
+      "commits_4w": 5,
+      "days_since_release": 247,
+      "npm_weekly": 0
+    },
+    "latest_release": {
+      "tag": "v0.86.0",
+      "name": "Aider v0.86.0",
+      "published_at": "2025-08-09T17:42:19Z",
+      "url": "https://github.com/Aider-AI/aider/releases/tag/v0.86.0"
+    },
+    "pushed_at": "2026-04-09T05:09:59Z",
+    "language": "Python",
+    "license": "Apache-2.0",
+    "html_url": "https://github.com/Aider-AI/aider",
+    "heat_score": 30.6,
+    "score_components": {
+      "star_velocity": 0,
+      "release_freshness": 14.3,
+      "commit_activity": 31.4,
+      "issue_health": 65.8,
+      "community": 83.6,
+      "fork_ratio": 97.0,
+      "npm_velocity": 0
+    }
+  },
+  "Continue": {
+    "name": "Continue",
+    "repo": "continuedev/continue",
+    "category": "vscode-extension",
+    "vendor": "Continue",
+    "pricing": "freemium",
+    "description": "Open-source autopilot for IDEs",
+    "npm": null,
+    "vscode_extension": "Continue.continue",
+    "metrics": {
+      "stars": 32528,
+      "forks": 4381,
+      "open_issues": 562,
+      "closed_issues": 5781,
+      "contributors": 508,
+      "stars_7d": 28,
+      "stars_30d": 28,
+      "commits_4w": 129,
+      "days_since_release": 17,
+      "npm_weekly": 0
+    },
+    "latest_release": {
+      "tag": "v1.2.22-vscode",
+      "name": "v1.2.22-vscode",
+      "published_at": "2026-03-27T21:25:10Z",
+      "url": "https://github.com/continuedev/continue/releases/tag/v1.2.22-vscode"
+    },
+    "pushed_at": "2026-04-13T18:30:38Z",
+    "language": "TypeScript",
+    "license": "Apache-2.0",
+    "html_url": "https://github.com/continuedev/continue",
+    "heat_score": 74.7,
+    "score_components": {
+      "star_velocity": 48.7,
+      "release_freshness": 75.0,
+      "commit_activity": 85.3,
+      "issue_health": 91.1,
+      "community": 100,
+      "fork_ratio": 100,
+      "npm_velocity": 0
+    }
+  },
+  "OpenHands": {
+    "name": "OpenHands",
+    "repo": "All-Hands-AI/OpenHands",
+    "category": "autonomous-agent",
+    "vendor": "All Hands AI",
+    "pricing": "byok",
+    "description": "A platform for software development agents (formerly OpenDevin)",
+    "npm": null,
+    "vscode_extension": null,
+    "metrics": {
+      "stars": 71136,
+      "forks": 8938,
+      "open_issues": 401,
+      "closed_issues": 0,
+      "contributors": 467,
+      "stars_7d": 0,
+      "stars_30d": 0,
+      "commits_4w": 219,
+      "days_since_release": 14,
+      "npm_weekly": 0
+    },
+    "latest_release": {
+      "tag": "1.6.0",
+      "name": "1.6.0 - 2026-03-30",
+      "published_at": "2026-03-30T16:01:39Z",
+      "url": "https://github.com/OpenHands/OpenHands/releases/tag/1.6.0"
+    },
+    "pushed_at": "2026-04-14T00:51:14Z",
+    "language": "Python",
+    "license": "NOASSERTION",
+    "html_url": "https://github.com/OpenHands/OpenHands",
+    "heat_score": 52.8,
+    "score_components": {
+      "star_velocity": 0,
+      "release_freshness": 79.5,
+      "commit_activity": 94.5,
+      "issue_health": 0.0,
+      "community": 98.9,
+      "fork_ratio": 100,
+      "npm_velocity": 0
+    }
+  },
+  "Codex CLI": {
+    "name": "Codex CLI",
+    "repo": "openai/codex",
+    "category": "cli-agent",
+    "vendor": "OpenAI",
+    "pricing": "usage-based",
+    "description": "OpenAI's agentic coding CLI",
+    "npm": "@openai/codex",
+    "vscode_extension": null,
+    "metrics": {
+      "stars": 75042,
+      "forks": 10622,
+      "open_issues": 2562,
+      "closed_issues": 6249,
+      "contributors": 406,
+      "stars_7d": 0,
+      "stars_30d": 0,
+      "commits_4w": 750,
+      "days_since_release": 2,
+      "npm_weekly": 3148947
+    },
+    "latest_release": {
+      "tag": "rust-v0.120.0",
+      "name": "0.120.0",
+      "published_at": "2026-04-11T02:53:49Z",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.120.0"
+    },
+    "pushed_at": "2026-04-14T00:51:09Z",
+    "language": "Rust",
+    "license": "Apache-2.0",
+    "html_url": "https://github.com/openai/codex",
+    "heat_score": 71.8,
+    "score_components": {
+      "star_velocity": 0,
+      "release_freshness": 100,
+      "commit_activity": 100,
+      "issue_health": 70.9,
+      "community": 96.7,
+      "fork_ratio": 100,
+      "npm_velocity": 100
+    }
+  },
+  "Gemini CLI": {
+    "name": "Gemini CLI",
+    "repo": "google-gemini/gemini-cli",
+    "category": "cli-agent",
+    "vendor": "Google",
+    "pricing": "freemium",
+    "description": "Google's open-source Gemini-powered coding CLI",
+    "npm": "@google/gemini-cli",
+    "vscode_extension": null,
+    "metrics": {
+      "stars": 101147,
+      "forks": 13088,
+      "open_issues": 2951,
+      "closed_issues": 10222,
+      "contributors": 619,
+      "stars_7d": 0,
+      "stars_30d": 0,
+      "commits_4w": 515,
+      "days_since_release": 0,
+      "npm_weekly": 703991
+    },
+    "latest_release": {
+      "tag": "v0.37.2",
+      "name": "Release v0.37.2",
+      "published_at": "2026-04-13T20:19:57Z",
+      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.37.2"
+    },
+    "pushed_at": "2026-04-13T22:59:24Z",
+    "language": "TypeScript",
+    "license": "Apache-2.0",
+    "html_url": "https://github.com/google-gemini/gemini-cli",
+    "heat_score": 72.8,
+    "score_components": {
+      "star_velocity": 0,
+      "release_freshness": 100,
+      "commit_activity": 100,
+      "issue_health": 77.6,
+      "community": 100,
+      "fork_ratio": 100,
+      "npm_velocity": 100
+    }
+  },
+  "Goose": {
+    "name": "Goose",
+    "repo": "block/goose",
+    "category": "cli-agent",
+    "vendor": "Block",
+    "pricing": "byok",
+    "description": "Block's open-source on-machine AI agent",
+    "npm": null,
+    "vscode_extension": null,
+    "metrics": {
+      "stars": 41852,
+      "forks": 4201,
+      "open_issues": 321,
+      "closed_issues": 0,
+      "contributors": 427,
+      "stars_7d": 150,
+      "stars_30d": 300,
+      "commits_4w": 249,
+      "days_since_release": 5,
+      "npm_weekly": 0
+    },
+    "latest_release": {
+      "tag": "v1.30.0",
+      "name": "v1.30.0",
+      "published_at": "2026-04-08T20:13:05Z",
+      "url": "https://github.com/aaif-goose/goose/releases/tag/v1.30.0"
+    },
+    "pushed_at": "2026-04-14T00:45:05Z",
+    "language": "Rust",
+    "license": "Apache-2.0",
+    "html_url": "https://github.com/aaif-goose/goose",
+    "heat_score": 80.0,
+    "score_components": {
+      "star_velocity": 72.6,
+      "release_freshness": 100,
+      "commit_activity": 96.7,
+      "issue_health": 0.0,
+      "community": 97.5,
+      "fork_ratio": 100,
+      "npm_velocity": 0
+    }
+  },
+  "Roo Code": {
+    "name": "Roo Code",
+    "repo": "RooCodeInc/Roo-Code",
+    "category": "vscode-extension",
+    "vendor": "Roo Code",
+    "pricing": "byok",
+    "description": "A whole dev team of AI agents in your editor (Cline fork)",
+    "npm": null,
+    "vscode_extension": "RooVeterinaryInc.roo-cline",
+    "metrics": {
+      "stars": 23100,
+      "forks": 2986,
+      "open_issues": 842,
+      "closed_issues": 3005,
+      "contributors": 299,
+      "stars_7d": 150,
+      "stars_30d": 300,
+      "commits_4w": 12,
+      "days_since_release": 0,
+      "npm_weekly": 0
+    },
+    "latest_release": {
+      "tag": "v3.52.1",
+      "name": "Release v3.52.1",
+      "published_at": "2026-04-13T22:33:01Z",
+      "url": "https://github.com/RooCodeInc/Roo-Code/releases/tag/v3.52.1"
+    },
+    "pushed_at": "2026-04-13T22:57:36Z",
+    "language": "TypeScript",
+    "license": "Apache-2.0",
+    "html_url": "https://github.com/RooCodeInc/Roo-Code",
+    "heat_score": 72.9,
+    "score_components": {
+      "star_velocity": 72.6,
+      "release_freshness": 100,
+      "commit_activity": 44.9,
+      "issue_health": 78.1,
+      "community": 91.8,
+      "fork_ratio": 100,
+      "npm_velocity": 0
+    }
+  },
+  "Plandex": {
+    "name": "Plandex",
+    "repo": "plandex-ai/plandex",
+    "category": "cli-agent",
+    "vendor": "Plandex",
+    "pricing": "byok",
+    "description": "Terminal-based AI coding agent for large projects",
+    "npm": null,
+    "vscode_extension": null,
+    "metrics": {
+      "stars": 15233,
+      "forks": 1116,
+      "open_issues": 52,
+      "closed_issues": 166,
+      "contributors": 27,
+      "stars_7d": 33,
+      "stars_30d": 33,
+      "commits_4w": 0,
+      "days_since_release": 271,
+      "npm_weekly": 0
+    },
+    "latest_release": {
+      "tag": "cli/v2.2.1",
+      "name": "Release cli/v2.2.1",
+      "published_at": "2025-07-16T16:54:55Z",
+      "url": "https://github.com/plandex-ai/plandex/releases/tag/cli/v2.2.1"
+    },
+    "pushed_at": "2025-10-03T21:49:58Z",
+    "language": "Go",
+    "license": "MIT",
+    "html_url": "https://github.com/plandex-ai/plandex",
+    "heat_score": 35.0,
+    "score_components": {
+      "star_velocity": 51.0,
+      "release_freshness": 11.9,
+      "commit_activity": 0,
+      "issue_health": 76.1,
+      "community": 53.6,
+      "fork_ratio": 73.3,
+      "npm_velocity": 0
+    }
+  },
+  "Kilo Code": {
+    "name": "Kilo Code",
+    "repo": "Kilo-Org/kilocode",
+    "category": "vscode-extension",
+    "vendor": "Kilo Org",
+    "pricing": "byok",
+    "description": "Open source AI coding agent (Cline + Roo superset)",
+    "npm": null,
+    "vscode_extension": "kilocode.Kilo-Code",
+    "metrics": {
+      "stars": 18042,
+      "forks": 2377,
+      "open_issues": 988,
+      "closed_issues": 2237,
+      "contributors": 972,
+      "stars_7d": 42,
+      "stars_30d": 42,
+      "commits_4w": 2362,
+      "days_since_release": 5,
+      "npm_weekly": 0
+    },
+    "latest_release": {
+      "tag": "v7.2.1",
+      "name": "v7.2.1",
+      "published_at": "2026-04-08T16:32:38Z",
+      "url": "https://github.com/Kilo-Org/kilocode/releases/tag/v7.2.1"
+    },
+    "pushed_at": "2026-04-13T23:06:50Z",
+    "language": "TypeScript",
+    "license": "MIT",
+    "html_url": "https://github.com/Kilo-Org/kilocode",
+    "heat_score": 82.1,
+    "score_components": {
+      "star_velocity": 54.4,
+      "release_freshness": 100,
+      "commit_activity": 100,
+      "issue_health": 69.4,
+      "community": 100,
+      "fork_ratio": 100,
+      "npm_velocity": 0
+    }
+  },
+  "_meta": {
+    "generated_at": "2026-04-14T00:52:33.899278+00:00",
+    "agent_count": 12
+  }
+}
