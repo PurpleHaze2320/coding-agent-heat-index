@@ -7004,5 +7004,67 @@
       "stars": 26736,
       "stars_7d": 0
     }
+  },
+  "2026-08-07": {
+    "Claude Code": {
+      "heat_score": 60.4,
+      "stars": 140543,
+      "stars_7d": 0
+    },
+    "Cursor": {
+      "heat_score": 9.1,
+      "stars": 33086,
+      "stars_7d": 0
+    },
+    "Cline": {
+      "heat_score": 64.7,
+      "stars": 65812,
+      "stars_7d": 0
+    },
+    "Aider": {
+      "heat_score": 20.1,
+      "stars": 48012,
+      "stars_7d": 0
+    },
+    "Continue": {
+      "heat_score": 37.9,
+      "stars": 35369,
+      "stars_7d": 0
+    },
+    "OpenHands": {
+      "heat_score": 55.6,
+      "stars": 83342,
+      "stars_7d": 0
+    },
+    "Codex CLI": {
+      "heat_score": 69.6,
+      "stars": 104554,
+      "stars_7d": 0
+    },
+    "Gemini CLI": {
+      "heat_score": 68.0,
+      "stars": 106401,
+      "stars_7d": 0
+    },
+    "Goose": {
+      "heat_score": 54.8,
+      "stars": 52497,
+      "stars_7d": 0
+    },
+    "Roo Code": {
+      "heat_score": 26.7,
+      "stars": 24354,
+      "stars_7d": 0
+    },
+    "Plandex": {
+      "heat_score": 16.5,
+      "stars": 15574,
+      "stars_7d": 0
+    },
+    "Kilo Code": {
+      "heat_score": 66.0,
+      "stars": 26754,
+      "stars_7d": 0
+    }
   }
 }
