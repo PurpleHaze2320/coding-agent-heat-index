@@ -7,7 +7,7 @@
 
 > The daily leaderboard for AI coding agents. Cursor, Claude Code, Cline, Aider, Codex, Gemini CLI and 6 more — ranked by real momentum, not marketing.
 
-> Tracking **12** agents | **765.1k** combined stars | **+8** stars this week | Updated **2026-09-05 11:41 UTC**
+> Tracking **12** agents | **765.7k** combined stars | **+7** stars this week | Updated **2026-09-06 11:59 UTC**
 
 ## Why This Exists
 
@@ -25,15 +25,15 @@ fork ratio, and weekly npm downloads. No vibes, no vendor-picked benchmarks — 
 
 | Rank | Agent | Heat | Stars | ⭐ 7d | Commits (4w) | Last Release | Category |
 |------|-------|:----:|------:|:-----:|:------------:|:------------:|----------|
-| 1 | [Codex CLI](https://github.com/openai/codex) | 🔥🔥 **69.1** | 121.7k | — | 1251 | today | `cli-agent` |
-| 2 | [Gemini CLI](https://github.com/google-gemini/gemini-cli) | 🔥🔥 **68.1** | 106.8k | — | 48 | 3 days ago | `cli-agent` |
-| 3 | [Kilo Code](https://github.com/Kilo-Org/kilocode) | 🔥🔥 **66.3** | 27.2k | — | 1744 | today | `vscode-extension` |
-| 4 | [Cline](https://github.com/cline/cline) | 🔥🔥 **64.1** | 67.5k | — | 286 | 1 day ago | `vscode-extension` |
-| 5 | [Claude Code](https://github.com/anthropics/claude-code) | 🔥🔥 **62.1** | 144.1k | — | 31 | today | `cli-agent` |
-| 6 | [Goose](https://github.com/block/goose) | 🔥 **57.5** | 53.9k | — | 350 | 1 day ago | `cli-agent` |
-| 7 | [OpenHands](https://github.com/All-Hands-AI/OpenHands) | 🔥 **52.5** | 86.2k | — | 151 | 8 days ago | `autonomous-agent` |
-| 8 | [Roo Code](https://github.com/RooCodeInc/Roo-Code) | 🟡 **36.1** | 24.3k | → +8 | 0 | 3 mo ago | `vscode-extension` |
-| 9 | [Continue](https://github.com/continuedev/continue) | 🟠 **29.1** | 35.8k | — | 0 | 2 mo ago | `vscode-extension` |
+| 1 | [Codex CLI](https://github.com/openai/codex) | 🔥🔥 **69.1** | 121.9k | — | 1277 | 1 day ago | `cli-agent` |
+| 2 | [Gemini CLI](https://github.com/google-gemini/gemini-cli) | 🔥🔥 **68.1** | 106.8k | — | 48 | 4 days ago | `cli-agent` |
+| 3 | [Kilo Code](https://github.com/Kilo-Org/kilocode) | 🔥🔥 **66.3** | 27.2k | — | 1772 | today | `vscode-extension` |
+| 4 | [Cline](https://github.com/cline/cline) | 🔥🔥 **63.8** | 67.6k | — | 268 | 2 days ago | `vscode-extension` |
+| 5 | [Claude Code](https://github.com/anthropics/claude-code) | 🔥🔥 **62.3** | 144.2k | — | 32 | today | `cli-agent` |
+| 6 | [Goose](https://github.com/block/goose) | 🔥 **57.5** | 54.0k | — | 337 | 2 days ago | `cli-agent` |
+| 7 | [OpenHands](https://github.com/All-Hands-AI/OpenHands) | 🔥 **52.3** | 86.3k | — | 152 | 9 days ago | `autonomous-agent` |
+| 8 | [Roo Code](https://github.com/RooCodeInc/Roo-Code) | 🟡 **35.6** | 24.3k | → +7 | 0 | 3 mo ago | `vscode-extension` |
+| 9 | [Continue](https://github.com/continuedev/continue) | 🟠 **29.0** | 35.8k | — | 0 | 2 mo ago | `vscode-extension` |
 | 10 | [Aider](https://github.com/Aider-AI/aider) | 🟠 **19.6** | 48.8k | — | 0 | 1y ago | `cli-agent` |
 | 11 | [Plandex](https://github.com/plandex-ai/plandex) | 🟠 **16.4** | 15.6k | — | 0 | 1y ago | `cli-agent` |
 | 12 | [Cursor](https://github.com/getcursor/cursor) | 🔴 **9.1** | 33.2k | — | 0 | — | `ai-ide` |
@@ -47,11 +47,11 @@ fork ratio, and weekly npm downloads. No vibes, no vendor-picked benchmarks — 
 | Metric | Codex CLI | Gemini CLI | Winner |
 |--------|:-:|:-:|:-:|
 | Heat Score | 69.1 | 68.1 | **Codex CLI** |
-| Stars | 121.7k | 106.8k | **Codex CLI** |
+| Stars | 121.9k | 106.8k | **Codex CLI** |
 | Stars (7d) | 0 | 0 | — |
-| Commits (4w) | 1251 | 48 | **Codex CLI** |
-| Contributors | 597 | 695 | **Gemini CLI** |
-| Days since release | 0 | 3 | **Codex CLI** |
+| Commits (4w) | 1277 | 48 | **Codex CLI** |
+| Contributors | 598 | 695 | **Gemini CLI** |
+| Days since release | 1 | 4 | **Codex CLI** |
 
 ---
 
@@ -59,8 +59,8 @@ fork ratio, and weekly npm downloads. No vibes, no vendor-picked benchmarks — 
 
 | Tier | Agents | Avg Heat | Total Stars |
 |------|--------|---------:|------------:|
-| Big Lab | 3 | 66.4 | 372.6k |
-| Indie / Open Source | 8 | 36.6 | 338.6k |
+| Big Lab | 3 | 66.5 | 372.9k |
+| Indie / Open Source | 8 | 36.5 | 338.8k |
 
 ---
 
@@ -71,20 +71,20 @@ fork ratio, and weekly npm downloads. No vibes, no vendor-picked benchmarks — 
 | **Codex CLI** | 0 | 100 | 100 | 41 | 100 | 100 | 100 |
 | **Gemini CLI** | 0 | 100 | 68 | 94 | 100 | 100 | 100 |
 | **Kilo Code** | 0 | 100 | 100 | 88 | 100 | 100 | — |
-| **Cline** | 0 | 100 | 99 | 75 | 93 | 100 | — |
+| **Cline** | 0 | 100 | 98 | 75 | 93 | 100 | — |
 | **Claude Code** | 0 | 100 | 61 | 85 | 65 | 100 | 100 |
 
 ---
 
 ## 📦 Recent Releases
 
-- **Codex CLI** [`rust-v0.153.4`](https://github.com/openai/codex/releases/tag/rust-v0.153.4) — today
-- **Claude Code** [`v2.1.261`](https://github.com/anthropics/claude-code/releases/tag/v2.1.261) — today
-- **Kilo Code** [`v7.5.14`](https://github.com/Kilo-Org/kilocode/releases/tag/v7.5.14) — today
-- **Goose** [`v1.49.0`](https://github.com/aaif-goose/goose/releases/tag/v1.49.0) — 1 day ago
-- **Cline** [`desktop-v0.0.23`](https://github.com/cline/cline/releases/tag/desktop-v0.0.23) — 1 day ago
-- **Gemini CLI** [`v0.58.0`](https://github.com/google-gemini/gemini-cli/releases/tag/v0.58.0) — 3 days ago
-- **OpenHands** [`v1.16.0`](https://github.com/OpenHands/OpenHands/releases/tag/v1.16.0) — 8 days ago
+- **Claude Code** [`v2.1.263`](https://github.com/anthropics/claude-code/releases/tag/v2.1.263) — today
+- **Kilo Code** [`v7.5.15`](https://github.com/Kilo-Org/kilocode/releases/tag/v7.5.15) — today
+- **Codex CLI** [`rust-v0.153.4`](https://github.com/openai/codex/releases/tag/rust-v0.153.4) — 1 day ago
+- **Goose** [`v1.49.0`](https://github.com/aaif-goose/goose/releases/tag/v1.49.0) — 2 days ago
+- **Cline** [`desktop-v0.0.23`](https://github.com/cline/cline/releases/tag/desktop-v0.0.23) — 2 days ago
+- **Gemini CLI** [`v0.58.0`](https://github.com/google-gemini/gemini-cli/releases/tag/v0.58.0) — 4 days ago
+- **OpenHands** [`v1.16.0`](https://github.com/OpenHands/OpenHands/releases/tag/v1.16.0) — 9 days ago
 - **Continue** [`v2.0.0-vscode`](https://github.com/continuedev/continue/releases/tag/v2.0.0-vscode) — 2 mo ago
 - **Roo Code** [`v3.54.0`](https://github.com/RooCodeInc/Roo-Code/releases/tag/v3.54.0) — 3 mo ago
 - **Aider** [`v0.86.0`](https://github.com/Aider-AI/aider/releases/tag/v0.86.0) — 1y ago
@@ -94,8 +94,8 @@ fork ratio, and weekly npm downloads. No vibes, no vendor-picked benchmarks — 
 ## 💡 Today's Insights
 
 - **Hottest agent**: Codex CLI with a Heat Score of 69.1
-- **Fastest growing**: Roo Code gained **+8** stars this week
-- **Most active development**: Kilo Code with **1744** commits in the last 4 weeks
+- **Fastest growing**: Roo Code gained **+7** stars this week
+- **Most active development**: Kilo Code with **1772** commits in the last 4 weeks
 - **Biggest community**: Kilo Code with **1217** contributors
 - **Most installed (npm, weekly)**: Claude Code with **21.5M** downloads
 - **Losing steam**: Roo Code, Continue, Aider haven't shipped a release in 60+ days
@@ -143,6 +143,6 @@ Edit `config.yaml` and add an entry under `agents:`
 
 ---
 
-*Powered by GitHub Actions • Data refreshed daily • Last run: 2026-09-05 11:41 UTC*
+*Powered by GitHub Actions • Data refreshed daily • Last run: 2026-09-06 11:59 UTC*
 
 *Built because developers deserve an unbiased leaderboard for the tools we use every day.*
