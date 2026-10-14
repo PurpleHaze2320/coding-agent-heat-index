@@ -9,24 +9,24 @@
     "npm": "@anthropic-ai/claude-code",
     "vscode_extension": null,
     "metrics": {
-      "stars": 150587,
-      "forks": 26395,
-      "open_issues": 14778,
-      "closed_issues": 84832,
+      "stars": 150762,
+      "forks": 26532,
+      "open_issues": 14792,
+      "closed_issues": 85047,
       "contributors": 59,
       "stars_7d": 0,
       "stars_30d": 0,
       "commits_4w": 77,
-      "days_since_release": 3,
-      "npm_weekly": 12502712
+      "days_since_release": 0,
+      "npm_weekly": 11913420
     },
     "latest_release": {
-      "tag": "v2.1.296",
-      "name": "v2.1.296",
-      "published_at": "2026-10-09T19:28:59Z",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.296"
+      "tag": "v2.1.299",
+      "name": "v2.1.299",
+      "published_at": "2026-10-14T02:49:42Z",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.299"
     },
-    "pushed_at": "2026-10-13T04:34:05Z",
+    "pushed_at": "2026-10-14T04:30:07Z",
     "language": "TypeScript",
     "license": null,
     "html_url": "https://github.com/anthropics/claude-code",
@@ -51,8 +51,8 @@
     "npm": null,
     "vscode_extension": null,
     "metrics": {
-      "stars": 33271,
-      "forks": 2291,
+      "stars": 33274,
+      "forks": 2289,
       "open_issues": 3,
       "closed_issues": 0,
       "contributors": 33,
@@ -74,7 +74,7 @@
       "commit_activity": 0,
       "issue_health": 0.0,
       "community": 56.7,
-      "fork_ratio": 68.9,
+      "fork_ratio": 68.8,
       "npm_velocity": 0
     }
   },
@@ -88,14 +88,14 @@
     "npm": null,
     "vscode_extension": "saoudrizwan.claude-dev",
     "metrics": {
-      "stars": 70269,
-      "forks": 7653,
-      "open_issues": 1638,
-      "closed_issues": 3964,
-      "contributors": 346,
+      "stars": 70303,
+      "forks": 7655,
+      "open_issues": 1653,
+      "closed_issues": 3966,
+      "contributors": 347,
       "stars_7d": 0,
       "stars_30d": 0,
-      "commits_4w": 288,
+      "commits_4w": 290,
       "days_since_release": 0,
       "npm_weekly": 0
     },
@@ -105,7 +105,7 @@
       "published_at": "2026-10-13T15:03:59Z",
       "url": "https://github.com/cline/cline/releases/tag/desktop-v0.0.46"
     },
-    "pushed_at": "2026-10-13T15:34:43Z",
+    "pushed_at": "2026-10-14T11:28:52Z",
     "language": "TypeScript",
     "license": "Apache-2.0",
     "html_url": "https://github.com/cline/cline",
@@ -113,8 +113,8 @@
     "score_components": {
       "star_velocity": 0,
       "release_freshness": 100,
-      "commit_activity": 99.3,
-      "issue_health": 70.8,
+      "commit_activity": 99.4,
+      "issue_health": 70.6,
       "community": 94.1,
       "fork_ratio": 100,
       "npm_velocity": 0
@@ -130,15 +130,15 @@
     "npm": null,
     "vscode_extension": null,
     "metrics": {
-      "stars": 49524,
-      "forks": 5052,
-      "open_issues": 1913,
-      "closed_issues": 3120,
+      "stars": 49546,
+      "forks": 5054,
+      "open_issues": 1916,
+      "closed_issues": 3123,
       "contributors": 182,
       "stars_7d": 0,
       "stars_30d": 0,
       "commits_4w": 0,
-      "days_since_release": 429,
+      "days_since_release": 430,
       "npm_weekly": 0
     },
     "latest_release": {
@@ -172,15 +172,15 @@
     "npm": null,
     "vscode_extension": "Continue.continue",
     "metrics": {
-      "stars": 36211,
-      "forks": 5465,
-      "open_issues": 832,
-      "closed_issues": 6428,
+      "stars": 36222,
+      "forks": 5469,
+      "open_issues": 845,
+      "closed_issues": 6429,
       "contributors": 507,
       "stars_7d": 0,
       "stars_30d": 0,
       "commits_4w": 0,
-      "days_since_release": 116,
+      "days_since_release": 117,
       "npm_weekly": 0
     },
     "latest_release": {
@@ -193,12 +193,12 @@
     "language": "TypeScript",
     "license": "Apache-2.0",
     "html_url": "https://github.com/continuedev/continue",
-    "heat_score": 28.0,
+    "heat_score": 27.9,
     "score_components": {
       "star_velocity": 0,
-      "release_freshness": 27.4,
+      "release_freshness": 27.3,
       "commit_activity": 0,
-      "issue_health": 88.5,
+      "issue_health": 88.4,
       "community": 100,
       "fork_ratio": 100,
       "npm_velocity": 0
@@ -214,15 +214,15 @@
     "npm": null,
     "vscode_extension": null,
     "metrics": {
-      "stars": 90797,
-      "forks": 12032,
-      "open_issues": 999,
+      "stars": 90874,
+      "forks": 12044,
+      "open_issues": 985,
       "closed_issues": 0,
-      "contributors": 579,
+      "contributors": 580,
       "stars_7d": 0,
       "stars_30d": 0,
-      "commits_4w": 322,
-      "days_since_release": 0,
+      "commits_4w": 340,
+      "days_since_release": 1,
       "npm_weekly": 0
     },
     "latest_release": {
@@ -231,7 +231,7 @@
       "published_at": "2026-10-12T19:33:56Z",
       "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.27.1"
     },
-    "pushed_at": "2026-10-13T15:28:10Z",
+    "pushed_at": "2026-10-14T13:07:35Z",
     "language": "TypeScript",
     "license": "MIT",
     "html_url": "https://github.com/OpenHands/OpenHands",
@@ -256,16 +256,16 @@
     "npm": "@openai/codex",
     "vscode_extension": null,
     "metrics": {
-      "stars": 129017,
-      "forks": 20272,
-      "open_issues": 22269,
-      "closed_issues": 12530,
-      "contributors": 665,
+      "stars": 129185,
+      "forks": 20301,
+      "open_issues": 22470,
+      "closed_issues": 12565,
+      "contributors": 667,
       "stars_7d": 0,
       "stars_30d": 0,
-      "commits_4w": 1395,
-      "days_since_release": 3,
-      "npm_weekly": 23862567
+      "commits_4w": 1381,
+      "days_since_release": 4,
+      "npm_weekly": 24385552
     },
     "latest_release": {
       "tag": "rust-v0.162.1",
@@ -273,7 +273,7 @@
       "published_at": "2026-10-09T19:44:51Z",
       "url": "https://github.com/openai/codex/releases/tag/rust-v0.162.1"
     },
-    "pushed_at": "2026-10-13T15:34:07Z",
+    "pushed_at": "2026-10-14T12:30:01Z",
     "language": "Rust",
     "license": "Apache-2.0",
     "html_url": "https://github.com/openai/codex",
@@ -282,7 +282,7 @@
       "star_velocity": 0,
       "release_freshness": 100,
       "commit_activity": 100,
-      "issue_health": 36.0,
+      "issue_health": 35.9,
       "community": 100,
       "fork_ratio": 100,
       "npm_velocity": 100
@@ -298,24 +298,24 @@
     "npm": "@google/gemini-cli",
     "vscode_extension": null,
     "metrics": {
-      "stars": 107309,
-      "forks": 14706,
-      "open_issues": 756,
-      "closed_issues": 13809,
+      "stars": 107348,
+      "forks": 14711,
+      "open_issues": 753,
+      "closed_issues": 13812,
       "contributors": 700,
       "stars_7d": 0,
       "stars_30d": 0,
-      "commits_4w": 73,
-      "days_since_release": 6,
-      "npm_weekly": 407139
+      "commits_4w": 74,
+      "days_since_release": 0,
+      "npm_weekly": 411986
     },
     "latest_release": {
-      "tag": "v0.63.0",
-      "name": "Release v0.63.0",
-      "published_at": "2026-10-06T20:38:49Z",
-      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.63.0"
+      "tag": "v0.64.0",
+      "name": "Release v0.64.0",
+      "published_at": "2026-10-13T20:44:46Z",
+      "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.64.0"
     },
-    "pushed_at": "2026-10-13T01:36:44Z",
+    "pushed_at": "2026-10-14T01:29:12Z",
     "language": "TypeScript",
     "license": "Apache-2.0",
     "html_url": "https://github.com/google-gemini/gemini-cli",
@@ -323,7 +323,7 @@
     "score_components": {
       "star_velocity": 0,
       "release_freshness": 100,
-      "commit_activity": 75.4,
+      "commit_activity": 75.7,
       "issue_health": 94.8,
       "community": 100,
       "fork_ratio": 100,
@@ -340,15 +340,15 @@
     "npm": null,
     "vscode_extension": null,
     "metrics": {
-      "stars": 55238,
-      "forks": 6425,
-      "open_issues": 506,
+      "stars": 55278,
+      "forks": 6428,
+      "open_issues": 509,
       "closed_issues": 0,
       "contributors": 659,
       "stars_7d": 0,
       "stars_30d": 0,
-      "commits_4w": 150,
-      "days_since_release": 4,
+      "commits_4w": 138,
+      "days_since_release": 5,
       "npm_weekly": 0
     },
     "latest_release": {
@@ -357,15 +357,15 @@
       "published_at": "2026-10-08T18:44:54Z",
       "url": "https://github.com/aaif-goose/goose/releases/tag/v1.54.0"
     },
-    "pushed_at": "2026-10-13T14:37:59Z",
+    "pushed_at": "2026-10-14T07:40:17Z",
     "language": "Rust",
     "license": "Apache-2.0",
     "html_url": "https://github.com/aaif-goose/goose",
-    "heat_score": 54.2,
+    "heat_score": 53.8,
     "score_components": {
       "star_velocity": 0,
       "release_freshness": 100,
-      "commit_activity": 87.9,
+      "commit_activity": 86.5,
       "issue_health": 0.0,
       "community": 100,
       "fork_ratio": 100,
@@ -382,15 +382,15 @@
     "npm": null,
     "vscode_extension": "RooVeterinaryInc.roo-cline",
     "metrics": {
-      "stars": 24279,
-      "forks": 3426,
+      "stars": 24278,
+      "forks": 3427,
       "open_issues": 1033,
       "closed_issues": 3011,
       "contributors": 303,
-      "stars_7d": 16,
+      "stars_7d": 15,
       "stars_30d": 46,
       "commits_4w": 0,
-      "days_since_release": 150,
+      "days_since_release": 151,
       "npm_weekly": 0
     },
     "latest_release": {
@@ -403,10 +403,10 @@
     "language": "TypeScript",
     "license": "Apache-2.0",
     "html_url": "https://github.com/RooCodeInc/Roo-Code",
-    "heat_score": 38.6,
+    "heat_score": 38.3,
     "score_components": {
-      "star_velocity": 41.0,
-      "release_freshness": 24.0,
+      "star_velocity": 40.1,
+      "release_freshness": 23.9,
       "commit_activity": 0,
       "issue_health": 74.5,
       "community": 92.0,
@@ -424,15 +424,15 @@
     "npm": null,
     "vscode_extension": null,
     "metrics": {
-      "stars": 15711,
-      "forks": 1177,
-      "open_issues": 66,
+      "stars": 15716,
+      "forks": 1178,
+      "open_issues": 67,
       "closed_issues": 166,
       "contributors": 27,
       "stars_7d": 0,
       "stars_30d": 0,
       "commits_4w": 0,
-      "days_since_release": 453,
+      "days_since_release": 454,
       "npm_weekly": 0
     },
     "latest_release": {
@@ -445,14 +445,14 @@
     "language": "Go",
     "license": "MIT",
     "html_url": "https://github.com/plandex-ai/plandex",
-    "heat_score": 16.3,
+    "heat_score": 16.2,
     "score_components": {
       "star_velocity": 0,
       "release_freshness": 0,
       "commit_activity": 0,
-      "issue_health": 71.6,
+      "issue_health": 71.2,
       "community": 53.6,
-      "fork_ratio": 74.9,
+      "fork_ratio": 75.0,
       "npm_velocity": 0
     }
   },
@@ -466,15 +466,15 @@
     "npm": null,
     "vscode_extension": "kilocode.Kilo-Code",
     "metrics": {
-      "stars": 27592,
-      "forks": 3256,
-      "open_issues": 598,
-      "closed_issues": 4597,
+      "stars": 27602,
+      "forks": 3257,
+      "open_issues": 605,
+      "closed_issues": 4601,
       "contributors": 1264,
       "stars_7d": 0,
       "stars_30d": 0,
-      "commits_4w": 1678,
-      "days_since_release": 5,
+      "commits_4w": 1604,
+      "days_since_release": 6,
       "npm_weekly": 0
     },
     "latest_release": {
@@ -483,7 +483,7 @@
       "published_at": "2026-10-08T00:16:29Z",
       "url": "https://github.com/Kilo-Org/kilocode/releases/tag/jetbrains/v7.1.9"
     },
-    "pushed_at": "2026-10-13T15:15:04Z",
+    "pushed_at": "2026-10-14T13:11:12Z",
     "language": "TypeScript",
     "license": "MIT",
     "html_url": "https://github.com/Kilo-Org/kilocode",
@@ -492,14 +492,14 @@
       "star_velocity": 0,
       "release_freshness": 100,
       "commit_activity": 100,
-      "issue_health": 88.5,
+      "issue_health": 88.4,
       "community": 100,
       "fork_ratio": 100,
       "npm_velocity": 0
     }
   },
   "_meta": {
-    "generated_at": "2026-10-13T15:38:19.870853+00:00",
+    "generated_at": "2026-10-14T13:22:14.834761+00:00",
     "agent_count": 12
   }
 }
